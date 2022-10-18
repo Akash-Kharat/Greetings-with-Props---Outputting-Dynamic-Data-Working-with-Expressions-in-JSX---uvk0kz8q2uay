@@ -4,7 +4,7 @@ import React from 'react'
 function Welcome({name}) {
   return (
     <div>
-      Hey !
+      {/* Hey ! */}
       <h1>{name}</h1>
       <h2>Welcome to Newton School.</h2>
     </div>
